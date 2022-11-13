@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luvsam12" alt="luvsam12" /></a> </p>
 
-[![@Naman's Holopin board](https://holopin.me/luvsam)](https://holopin.io/@luvsam)
+[![@luvsam's Holopin board](https://holopin.me/luvsam)](https://holopin.io/@luvsam)
 
 
 # 📊 GitHub Stats:
