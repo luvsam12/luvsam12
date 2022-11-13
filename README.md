@@ -1,35 +1,3 @@
-- 👋 Hi, I’m @luvsam12
-- 👀 I’m interested in Full stack development using javaScript as major language
-- 🌱 I’m currently learning MEAN and MERN stack development
-- 💞️ I’m looking to collaborate with the javaScript community
-- 📫 How to reach me, Its very easy just ping me and ask a question :P
-
-<!---
-luvsam12/luvsam12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-<!--
-### Hi there 👋
-
-**Trilochna/Trilochna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
 <h1 align="center">(◠‿◕)Hey, there!✨ So, you're here to watch TV📺</h1>
 <h3 align="center">I'm a Full Stack Developer with 1+ years of experience in PWA's.</h3>
 
@@ -47,13 +15,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Server side technologies**
 
-- 📄 Check my resume by [Clicking Here!!]((https://drive.google.com/file/d/1DexkjBrgjwNXFXfr_ETaWdVlmIQZjClD/view?usp=sharing)
+- 📄 Check my resume by [Clicking Here!!](https://drive.google.com/file/d/1DexkjBrgjwNXFXfr_ETaWdVlmIQZjClD/view?usp=sharing)
 
 ## 🌐 Socials:
 <p align="center">
 
-<a href="https://www.linkedin.com/in/naman-samaiya/") target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trilochnavaid/" height="30" width="40" /></a>
-<a href="https://instagram.com/the_norcomm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trilochnavaid" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/naman-samaiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman-samaiya/" height="30" width="40" /></a>
+<a href="https://instagram.com/the_norcomm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naman-samaiya" height="30" width="40" /></a>
 
 </p>
 
@@ -73,3 +41,9 @@ Here are some ideas to get you started:
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=luvsam12&label=Profile%20views&color=0e75b6&style=flat" alt="luvsam12" /> </p>
+
+
+<!---
+luvsam12/luvsam12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
